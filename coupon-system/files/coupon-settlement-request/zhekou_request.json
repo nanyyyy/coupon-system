@@ -1,0 +1,45 @@
+{
+  "cost": 0.0,
+  "couponAndTemplateInfos": [
+    {
+      "id": 5,
+      "template": {
+        "category": "003",
+        "id": 5,
+        "key": "1003202111300005",
+        "rule": {
+          "discount": {
+            "base": 0,
+            "quota": 0
+          },
+          "expiration": {
+            "deadline": 1568083010589,
+            "gap": 1,
+            "period": 1
+          },
+          "limitation": 1,
+          "usage": {
+            "city": "Brisbane",
+            "goodsType": "[1,3]",
+            "state": "Queesland"
+          },
+          "weight": "[]"
+        }
+      }
+    }
+  ],
+  "employ": false,
+  "goodsInfos": [
+    {
+      "count": 2,
+      "price": 10,
+      "type": 1
+    },
+    {
+      "count": 10,
+      "price": 20,
+      "type": 1
+    }
+  ],
+  "userId": 20001
+}
